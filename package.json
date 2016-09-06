@@ -1,0 +1,22 @@
+{
+  "name": "starterapp",
+  "version": "1.0.0",
+  "description": "basic template for app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tullsta/starterapp.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "tullsta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tullsta/starterapp/issues"
+  },
+  "homepage": "https://github.com/tullsta/starterapp#readme"
+}
