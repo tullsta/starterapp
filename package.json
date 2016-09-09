@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/tullsta/starterapp/issues"
   },
-  "homepage": "https://github.com/tullsta/starterapp#readme"
+  "homepage": "https://github.com/tullsta/starterapp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0"
+  }
 }
